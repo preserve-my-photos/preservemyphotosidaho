@@ -3,7 +3,7 @@
     <title>Preserve My Photos Idaho</title>
     <link href="https://preserve-my-photos.github.io/preservemyphotosidaho/feed.xml" rel="self" />
     <link href="https://preserve-my-photos.github.io/preservemyphotosidaho" />
-    <updated>2025-10-30T15:19:32-06:00</updated>
+    <updated>2025-10-30T15:44:19-06:00</updated>
     <author>
         <name>Stephanie Slawson</name>
     </author>
@@ -57,7 +57,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://preserve-my-photos.github.io/preservemyphotosidaho/media/posts/2/Powerpoint-Couple-in-Paint.net-2.png" class="type:primaryImage" alt="" /></p>
-                <table class="align-center align-left" style="border-collapse: collapse; width: 77.0655%; height: 2106px;" border="1">
+                <table>
 <tbody>
 <tr style="height: 48.5625px;">
 <td style="width: 81.1811%; height: 48.5625px;" colspan="2"><strong>Services</strong></td>
@@ -203,7 +203,6 @@
 </tr>
 </tbody>
 </table>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://preserve-my-photos.github.io/preservemyphotosidaho/media/posts/2/Powerpoint-Couple-in-Paint.net.png" alt="" width="2280" height="1279" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://preserve-my-photos.github.io/preservemyphotosidaho/media/posts/2/responsive/Powerpoint-Couple-in-Paint.net-xs.png 640w ,https://preserve-my-photos.github.io/preservemyphotosidaho/media/posts/2/responsive/Powerpoint-Couple-in-Paint.net-sm.png 768w ,https://preserve-my-photos.github.io/preservemyphotosidaho/media/posts/2/responsive/Powerpoint-Couple-in-Paint.net-md.png 1024w ,https://preserve-my-photos.github.io/preservemyphotosidaho/media/posts/2/responsive/Powerpoint-Couple-in-Paint.net-lg.png 1366w ,https://preserve-my-photos.github.io/preservemyphotosidaho/media/posts/2/responsive/Powerpoint-Couple-in-Paint.net-xl.png 1600w ,https://preserve-my-photos.github.io/preservemyphotosidaho/media/posts/2/responsive/Powerpoint-Couple-in-Paint.net-2xl.png 1920w"></figure>
             ]]>
         </content>
     </entry>
