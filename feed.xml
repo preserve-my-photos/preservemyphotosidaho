@@ -3,7 +3,7 @@
     <title>Preserve My Photos Idaho</title>
     <link href="https://preserve-my-photos.github.io/preservemyphotosidaho/feed.xml" rel="self" />
     <link href="https://preserve-my-photos.github.io/preservemyphotosidaho" />
-    <updated>2025-10-30T15:44:19-06:00</updated>
+    <updated>2025-10-30T16:12:44-06:00</updated>
     <author>
         <name>Stephanie Slawson</name>
     </author>
@@ -57,11 +57,12 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://preserve-my-photos.github.io/preservemyphotosidaho/media/posts/2/Powerpoint-Couple-in-Paint.net-2.png" class="type:primaryImage" alt="" /></p>
-                <table>
+                <div class="table-wrapper">
+<table style="border-collapse: collapse;">
 <tbody>
 <tr style="height: 48.5625px;">
-<td style="width: 81.1811%; height: 48.5625px;" colspan="2"><strong>Services</strong></td>
-<td style="width: 18.8219%; height: 48.5625px;"><strong>Price (each)</strong></td>
+<td class="align-center" style="width: 81.1811%; height: 48.5625px;" colspan="2"><strong>Services</strong></td>
+<td class="align-center" style="width: 18.8219%; height: 48.5625px;"><strong>Price (each)</strong></td>
 </tr>
 <tr style="height: 75.5625px;">
 <td class="align-left" style="width: 81.1811%; height: 75.5625px;" colspan="2" width="40"><strong><span style="color: #236fa1;">Printed Photos</span></strong> (Digitized, color optimized, cropped, labeled and sorted. You won't lose dates or notes)</td>
@@ -203,6 +204,7 @@
 </tr>
 </tbody>
 </table>
+</div>
             ]]>
         </content>
     </entry>
